@@ -125,15 +125,19 @@ pip install streamlit pymysql pandas
 ### Screenshots
 
 1. **Login Screen**: Allows admins and employees to log in.
+   
    ![image](https://github.com/user-attachments/assets/728a3d51-eb02-4307-8793-c91e5a04b6c7)
 
-2. **Admin Dashboard**: Shows navigation options like "View Employee Data," "Add Employee," etc.
+3. **Admin Dashboard**: Shows navigation options like "View Employee Data," "Add Employee," etc.
+   
   ![image](https://github.com/user-attachments/assets/f0cdfdf6-027a-4b6c-adfa-8aefab291b02)
    
-3. **Add Employee**: Form to add new employee records.
+5. **Add Employee**: Form to add new employee records.
+   
    ![image](https://github.com/user-attachments/assets/9d5d5022-c10d-4c21-9220-819cebfc4570)
 
-4. **Delete Employee**: Enter an Employee ID to delete a specific record.
+7. **Delete Employee**: Enter an Employee ID to delete a specific record.
+   
    ![image](https://github.com/user-attachments/assets/a27a8a05-2f0e-4150-a6df-027a8298aca8)
 
 
